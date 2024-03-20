@@ -1,0 +1,27 @@
+{
+  "name": "polar-aurora-ui-kit",
+  "version": "1.0.2",
+  "description": "UI components inspired by the colors and shapes of polar auroras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikiarguelles/polar-aurora-ui-kit"
+  },
+  "keywords": [
+    "ui-kit",
+    "aurora",
+    "polar",
+    "web-design",
+    "components"
+  ],
+  "author": "Finn Harper",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "styled-components": "^5.3.0",
+    "framer-motion": "^4.1.17"
+  }
+}
